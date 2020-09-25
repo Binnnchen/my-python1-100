@@ -1,2 +1,3 @@
 # my-python1-100
-my code in practicng python1-100 days
+
+### 学习python时用来练习的代码
